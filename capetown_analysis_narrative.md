@@ -150,4 +150,4 @@ All code and data used in this analysis is available in the project repository.
 
 ---
 
-*This analysis was conducted independently as part of a data science portfolio project. All data used is publicly available.*
+*This analysis was conducted independently. All data used is publicly available.*
